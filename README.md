@@ -1,7 +1,7 @@
 # Anomaly Detection & Exception Reporting
 
 ## Project Summary
-Developed an automated inventory analysis tool that identifies size-level stock imbalances using threshold-based exception reporting. The solution calculates each size's contribution to total inventory, automatically flags abnormal stock concentrations, and supports rapid investigation of marketplace availability issues, inventory inefficiencies, and stock recall opportunities.
+Developed an automated inventory analysis tool that identifies size-level stock imbalances using threshold-based exception reporting. The solution calculates each size's contribution to total inventory, automatically flags abnormal stock concentrations, and supports root-cause investigation of marketplace availability issues, inventory inefficiencies, and stock recall opportunities.
 
 ## Business Problem
 Retail inventory should generally be distributed across sizes in line with expected customer demand.
@@ -32,12 +32,16 @@ The threshold can be adjusted to align with business requirements.
 ## Business Impact
 Faster Identification of Inventory Issues
 * Automatically highlights size-level inventory anomalies across large datasets.
+
 Reduced Manual Analysis
 * Removes the need to manually review individual size distributions.
+
 Supports Marketplace Investigations
 * Helps identify styles where abnormal stock patterns may be linked to marketplace availability issues.
+
 Recall Opportunity Identification
 * Highlights styles that may benefit from inventory balancing or recall activity.
+
 Exception-Based Management
 * Allows analysts and stock controllers to focus on flagged exceptions rather than reviewing every style individually.
 
