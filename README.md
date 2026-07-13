@@ -57,7 +57,7 @@ To protect commercially sensitive information, all screenshots used anonymized o
 
 ### Screenshot 1: Data Gathering in MAPPER
 This screenshot shows the custom MAPPER query used to retrieve inventory data by style, size, and location across the business. The report was specifically designed to provide the detailed stock information required for identifying size distribution anomalies.
-![Screenshot 1](./screenshots/screenshot-1.png)
+![Screenshot 1](Screenshot 2026-07-08 123143.png)
 
 ### Screenshot 2: Data Transformed in Excel
 This screenshot demonstrates the exported inventory data was imported into Microsoft Excel and prepared for automated analysis. The data structure was organised to support size-level calculations and ensure consistent processing across large inventory datasets.
