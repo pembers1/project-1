@@ -70,7 +70,7 @@ This screenshot shows the Office Script used to automate the analysis process. T
 
 The automation standardises the process, improves consistency, and significantly reduces the time required to identify potential inventory issues.
 
-![Image Alt]()
+![Image Alt](https://github.com/pembers1/project-1/blob/main/Screenshot%202026-07-08%20115417.png?raw=true)
 
 ### Screenshot 4: Office Script Automation
 This screenshot shows the output after the automation has been executed. The model calculates the percentage contribution of each size against the total stock position for a style and automatically flags styles where a single size exceeds the defined threshold.
