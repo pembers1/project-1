@@ -58,19 +58,19 @@ To protect commercially sensitive information, all screenshots used anonymized o
 ### Screenshot 1: Data Gathering in MAPPER
 This screenshot shows the custom MAPPER query used to retrieve inventory data by style, size, and location across the business. The report was specifically designed to provide the detailed stock information required for identifying size distribution anomalies.
 
-![Image Alt](https://github.com/pembers1/project-1/blob/main/Screenshot%202026-07-08%20112041.png?raw=true)
+![Image Alt]()
 
 ### Screenshot 2: Data Transformed in Excel
 This screenshot demonstrates the exported inventory data was imported into Microsoft Excel and prepared for automated analysis. The data structure was organised to support size-level calculations and ensure consistent processing across large inventory datasets.
 
-![Image Alt](https://github.com/pembers1/project-1/blob/main/Screenshot%202026-07-08%20112455.png?raw=true)
+![Image Alt]()
 
 ### Screenshot 3: Office Script Automation
 This screenshot shows the Office Script used to automate the analysis process. The script applies predefined business rules, calculates size distribution percentages, and removes the need for manual review of individual size positions.
 
 The automation standardises the process, improves consistency, and significantly reduces the time required to identify potential inventory issues.
 
-![Image Alt](https://github.com/pembers1/project-1/blob/main/Screenshot%202026-07-08%20115417.png?raw=true)
+![Image Alt]()
 
 ### Screenshot 4: Office Script Automation
 This screenshot shows the output after the automation has been executed. The model calculates the percentage contribution of each size against the total stock position for a style and automatically flags styles where a single size exceeds the defined threshold.
@@ -79,10 +79,12 @@ Items highlighted as Overweight indicate an unusually high concentration of stoc
 
 These anomalies can often indicate marketplace listing issues, missing sizes on online channels, inventory imbalances, or potential stock recall opportunities
 
-![Image Alt](https://github.com/pembers1/project-1/blob/main/Screenshot%202026-07-08%20112703.png?raw=true)
+![Image Alt]()
 
 ### Screenshot 5: Filtered Exception Reporting
 This screenshot demonstrates how the automated output can be filtered to focus exclusively on flagged styles. This exception-based approach allows stock controllers to concentrate on potential issues rather than manually reviewing every style within the dataset.
+
+![Image Alt]()
 
 ### Screenshot 6: Adjustable Business Rules
 This screenshot shows how the threshold used to generate an Overweight flag can be configured within the Office Script.
