@@ -1,6 +1,6 @@
 # Anomaly Detection & Exception Reporting
 
-[Home](https://github.com/pembers1/portfolio-homepage)
+[Home](https://github.com/pembers1/portfolio-homepage#data-analytics--business-intelligence-portfolio)
 
 ## Project Summary
 Developed an automated inventory analysis tool that identifies size-level stock imbalances using threshold-based exception reporting. The solution calculates each size's contribution to total inventory, automatically flags abnormal stock concentrations, and supports root-cause investigation of marketplace availability issues, inventory inefficiencies, and stock recall opportunities.
