@@ -63,10 +63,14 @@ This screenshot shows the custom MAPPER query used to retrieve inventory data by
 ### Screenshot 2: Data Transformed in Excel
 This screenshot demonstrates the exported inventory data was imported into Microsoft Excel and prepared for automated analysis. The data structure was organised to support size-level calculations and ensure consistent processing across large inventory datasets.
 
+![Image Alt](https://github.com/pembers1/project-1/blob/main/Screenshot%202026-07-08%20112455.png?raw=true)
+
 ### Screenshot 3: Office Script Automation
 This screenshot shows the Office Script used to automate the analysis process. The script applies predefined business rules, calculates size distribution percentages, and removes the need for manual review of individual size positions.
 
 The automation standardises the process, improves consistency, and significantly reduces the time required to identify potential inventory issues.
+
+![Image Alt]()
 
 ### Screenshot 4: Office Script Automation
 This screenshot shows the output after the automation has been executed. The model calculates the percentage contribution of each size against the total stock position for a style and automatically flags styles where a single size exceeds the defined threshold.
