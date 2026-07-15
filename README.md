@@ -70,7 +70,7 @@ This screenshot shows the Office Script used to automate the analysis process. T
 
 The automation standardises the process, improves consistency, and significantly reduces the time required to identify potential inventory issues.
 
-![Image Alt]()
+![Image Alt](https://github.com/pembers1/project-1/blob/main/Screenshot%202026-07-08%20112703.png?raw=true)
 
 ### Screenshot 4: Office Script Automation
 This screenshot shows the output after the automation has been executed. The model calculates the percentage contribution of each size against the total stock position for a style and automatically flags styles where a single size exceeds the defined threshold.
@@ -78,6 +78,8 @@ This screenshot shows the output after the automation has been executed. The mod
 Items highlighted as Overweight indicate an unusually high concentration of stock in a particular size and are automatically marked for further investigation.
 
 These anomalies can often indicate marketplace listing issues, missing sizes on online channels, inventory imbalances, or potential stock recall opportunities
+
+![Image Alt]()
 
 ### Screenshot 5: Filtered Exception Reporting
 This screenshot demonstrates how the automated output can be filtered to focus exclusively on flagged styles. This exception-based approach allows stock controllers to concentrate on potential issues rather than manually reviewing every style within the dataset.
@@ -87,8 +89,7 @@ This screenshot shows how the threshold used to generate an Overweight flag can 
 
 In this example, styles are flagged when a single size accounts for more than 60% of total stock for that style. By adjusting this value, the tool can be tailored to match changing business requirements and inventory management strategies.
 
-
-[Add additional screenshots as needed]
+![Image Alt]()
 
 ## Skills Demonstrated
 * Data Preparation
