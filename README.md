@@ -45,6 +45,9 @@ Recall Opportunity Identification
 Exception-Based Management
 * Allows analysts and stock controllers to focus on flagged exceptions rather than reviewing every style individually.
 
+Time Saved
+* Up to 8 hours weekly
+
 ## Tools & Technologies Used
 * MAPPER
 * Microsoft Excel
