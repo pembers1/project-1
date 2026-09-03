@@ -48,7 +48,7 @@ Exception-Based Management
 * Allows analysts and stock controllers to focus on flagged exceptions rather than reviewing every style individually.
 
 Time Saved
-* Up to 8 hours weekly
+* Significantly reduced manual review effort through exception based analysis.
 
 ## Tools & Technologies Used
 * MAPPER
